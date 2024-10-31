@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AnaMkv!
+- 👀 I’m interested in software development, cybersecurity, and open-source projects.
+- 🌱 I’m currently learning computer sciences at the IUT of Paris. 
+- 💞️ I’m looking to collaborate on projects that embrace FOSS and solve real-world problems.
+- 📫 How to reach me: github.visitor853[@]aleeas.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: When I’m not coding, I’m likely exploring a new film, behind a camera lens, or lost in a philosophy book!
